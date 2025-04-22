@@ -6,7 +6,7 @@ Search for a file or multiple files that contain the same part of the filename.
 
 # Compile the Project
 
-In root directory, with Cargo (RUST PACKAGE MANAGER) installed, run "cargo build"
+In "search" directory, with Cargo (RUST PACKAGE MANAGER) installed, run "cargo build"
 
 # ADD TO USR BIN
 move ./target/debug/search into /usr/bin/
